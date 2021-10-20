@@ -20,14 +20,14 @@ Tímto nabízíme vhled do naší specifické a autentické kultury, jak pro na�
 14) Vzdělávání
 
 # 1) “Employee first” přístup 👨👩
-Jsme firma, kde jsou <b>lidé na prvním místě (employee first) </b>.
-To znamená: Motivující odměna, hardware dle výběru s maximálním výkonem, monitory s vysokým rozlišením a pohodlný setting pro zdravou a pohodlnou práci. 
+Jsme firma, kde jsou <b>lidé na prvním místě (employee first). </b>
+To znamená: motivující odměna, hardware dle výběru s maximálním výkonem, monitory s vysokým rozlišením a pohodlný setting pro zdravou a pohodlnou práci. 
 
 Ve vedení firmy stojí vě většině případů bývalí vývojáři, proto je zde maximální důraz na potřeby a zázemí samotných vývojářů. Toto samozřejmě platí i pro všechny ostatní oddělení ve firmě, zkrátka “Employee first”. 
 
-Každý zde má své nezastupitelné místo a jednáme spolu na <b>rovnocenné úrovni</b>, ať už se jedná o jakoukoliv pozici ve firmě (bez ohledu na to, zda se jedná o managera, teamleadera nebo programátora). 
+Každý zde má své nezastupitelné místo a jednáme spolu na <b>rovnocenné úrovni</b>, ať už se to týká jakoukoliv pozice ve firmě (bez ohledu na to, zda jde o managera, teamleadera nebo programátora). 
 
-Díky tomu můžeme odvézt perfektní práci pro klienta a přesto zůstat spokojenou, zdravou firmou.
+Díky tomu můžeme odvést perfektní práci pro klienta a přesto zůstat spokojenou, zdravou firmou.
 
 
 # 2) Transparentnost 📖
@@ -42,7 +42,7 @@ Jsme maximálně <b>otevření a sdílet informace</b> je součástí naší fil
 
 Informace najdete na našem <a href="https://www.valatron.cz/blog">blogu</a>, nebo na <a href="https://www.facebook.com/valatroncz">Facebook profilu</a>. 
 
-O interním dění točíme videa a předáváme know how v našich podcastech.
+O interním dění točíme videa a sdílíme know how v našich podcastech.
 
 U nás mají otevřené dveře všichni naši kolegové - ať už se jedná o témata pracovní či osobní. 
 
@@ -61,7 +61,7 @@ Neboť skutečná svoboda není jen o volnosti, ale také o adekvátních povinn
 # 6) Domluva 🎤
 Razíme přístup, kdy <b>na všem se dá domluvit</b>, pokud si to obhájíš. 
 
-Nejsou zde žádná direktivní nařízení, ale tvé požadavky zase musejí dávat smysl z hlediska financí (náklad vs. přínos), potřeb ostatních kolegů a realistických podmínek daného místa, situace a času.
+Nejsou zde žádná direktivní nařízení, ale tvé požadavky musejí dávat smysl z hlediska financí (náklad vs. přínos), potřeb ostatních kolegů a realistických podmínek daného místa, situace a času.
 
 Pokud máš něco na srdci, <b>neboj se a jednej na přímo s daným člověkem</b>. Za zády kolegů se nic nevyřeší. 
 
@@ -75,7 +75,7 @@ Podporujeme setkávání lidí na akcích - a každý tým má vlastní budget n
 Často však není potřeba nic plánovat přes firmu a rádi se potkáváme v restauracích, u sportu či u dalších aktivit.
 
 # 8) Decentralizace 👍
-Máme určitou základní strukturu vedení. Každý tým má v čele leadera a jednotlivá oddělení vedou manageři a ti se zodpovídají našemu CEO. 
+Máme určitou základní strukturu vedení. Každý tým má v čele leadera a jednotlivá oddělení vedou manageři, kteří se zodpovídají našemu CEO. 
 
 Tyto role jsou zde převážně pro efektivnější komunikaci, mentoring a rychlejší domluvu. 
 
@@ -91,7 +91,7 @@ Manažer je u nás ve Valatronu člověkem, který iniciuje, propojuje, motivuje
 V mnoha firmách jen fráze, u nás realita. 
 
 # 10) Rozumný home office 🏠
-Nikoho <b>nenutíme sedět každý den v kanceláři</b>, ale přece jenom vnímáme a cítíme, že nejen kvůli práci, ale kvůli samotnému osobnímu kontaktu, jde mnoho věcí vyřešit mnohem snáze a navíc to v týmu utužuje určitou soudržnost a chuť vídat se společně i po práci. 
+Nikoho <b>nenutíme sedět každý den v kanceláři</b>, ale přece jenom vnímáme a cítíme, že nejen kvůli práci, ale kvůli samotnému osobnímu kontaktu, jde mnoho věcí vyřešit mnohem snáze. Navíc to v týmu utužuje určitou soudržnost a chuť vídat se společně i mimo práci. 
 
 Proto se nám více osvědčil tzv. hybridní model, kdy většinu týdne se potkáváme v kancelářích a občas si bereme Home office dle osobní potřeby.
 
