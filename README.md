@@ -2,7 +2,7 @@
 Předkládáme naši <b>firemní kulturu</b> jako open source, neboť její nedílnou součástí je i otevřenost a transparentnost. 
 Tímto nabízíme vhled do naší specifické a autentické kultury, jak pro naše budoucí zájemce o práci, tak i pro naše potenciální klienty na spolupráci.
 
-✅ Je to pro nás závazek, díky kterému můžeme být lepší firmou. 🚀 Transparentní, svobodnou, zodpovědnou a férovou.
+✅ Je to pro nás závazek, díky kterému můžeme být lepší firmou. 🚀 <b>Transparentní, svobodnou, zodpovědnou a férovou</b>.
 
 1) “Employee first” přístup
 2) Transparentnost
