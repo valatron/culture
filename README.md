@@ -38,4 +38,8 @@ Obchod nám dává smysl pouze tehdy, když je to tzv. 🏆 win-win-win řešen�
 Firma je transparentní i vůči všem lidem ve firmě, proto je běžné, že sdílíme aktuální informace o stavu firmy, zajímavé novinky jsou prezentovány na pravidelných firemních snídaních a roční souhrn dění ve firmě i reinvestovaný zisk na vánočním večírku.
 
 # 3) Otevřenost
+Jsme maximálně otevření a sdílet informace je součástí naší filozofie transparentnosti a otevřenosti.
+Informace najdete na našem blogu, na sociálních sítích. O interním dění točíme videa a předáváme know how v našich podcastech.
+U nás mají otevřené dveře všichni naši kolegové - ať už se jedná o témata pracovní či osobní. Otevřené dveře u vedení firmy. Problémy řešíme a neutíkáme od nich.
+
 
