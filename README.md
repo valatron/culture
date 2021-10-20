@@ -65,17 +65,21 @@ Nejsou zde žádná direktivní nařízení, ale tvé požadavky zase musejí d�
 
 Pokud máš něco na srdci, <b>neboj se a jednej na přímo s daným člověkem</b>. Za zády kolegů se nic nevyřeší. 
 
+Sociální sítě pro komunikaci často zkreslují informace, proto je vždy lepší se sejít osobně a vše si vyříkat z očí do očí.
+
 # 7) Dobrovolnost akcí 🆓
 Všechny firemní akce jsou čistě <b>dobrovolné</b> a mnoho akcí vzniká i spontánně dle domluvy jednotlivých lidí. Žádná akce není povinná. 
 
-Podporujeme setkávání lidí na akcích - každý tým má vlastní budget na teambuilding.
+Podporujeme setkávání lidí na akcích - a každý tým má vlastní budget na teambuilding.
 
-Často není ani potřeba nic plánovat a po práci spolu chodíme do restaurací, kaváren nebo za sportem.
+Často však není potřeba nic plánovat přes firmu a rádi se potkáváme v restauracích, u sportu či u dalších aktivit.
 
 # 8) Decentralizace 👍
-Máme určitou základní strukturu vedení. Každý tým má v čele leadera a jednotlivá oddělení vedou manageři a ti se zodpovídají našemu CEO. Tyto role jsou zde převážně pro efektivnější komunikaci, mentoring a rychlejší domluvu. 
+Máme určitou základní strukturu vedení. Každý tým má v čele leadera a jednotlivá oddělení vedou manageři a ti se zodpovídají našemu CEO. 
 
-Každý tým funguje samostatně a decentralizovaně (ale s pomocí mentoringu zkušenějších kolegů). Smyslem je efektivita a ne potřeba direktivně o něčem rozhodovat. 
+Tyto role jsou zde převážně pro efektivnější komunikaci, mentoring a rychlejší domluvu. 
+
+Každý tým funguje <b>samostatně a decentralizovaně</b> (ale s pomocí mentoringu zkušenějších kolegů). Smyslem je efektivita a ne potřeba direktivně o něčem rozhodovat. 
 
 Nakonec každý manager se může se svým týmem domluvit tak, aby z rozhodnutí profitoval celý tým.
 
