@@ -25,7 +25,7 @@ To znamená: motivující odměna, hardware dle výběru s maximálním výkonem
 
 Ve vedení firmy stojí vě většině případů bývalí vývojáři, proto je zde maximální důraz na potřeby a zázemí samotných vývojářů. Toto samozřejmě platí i pro všechny ostatní oddělení ve firmě, zkrátka “Employee first”. 
 
-Každý zde má své nezastupitelné místo a jednáme spolu na <b>rovnocenné úrovni</b>, ať už se to týká jakoukoliv pozice ve firmě (bez ohledu na to, zda jde o managera, teamleadera nebo programátora). 
+Každý zde má své nezastupitelné místo a jednáme spolu na <b>rovnocenné úrovni</b>, ať už se to týká jakékoliv pozice ve firmě (bez ohledu na to, zda jde o managera, teamleadera nebo programátora). 
 
 Díky tomu můžeme odvést perfektní práci pro klienta a přesto zůstat spokojenou, zdravou firmou.
 
@@ -40,7 +40,7 @@ Firma je transparentní i vůči všem lidem ve firmě, proto je běžné, že s
 # 3) Otevřenost 👐
 Jsme maximálně <b>otevření a sdílet informace</b> je součástí naší filozofie transparentnosti a otevřenosti.
 
-Informace najdete na našem <a href="https://www.valatron.cz/blog">blogu</a>, nebo na <a href="https://www.facebook.com/valatroncz">Facebook profilu</a>. 
+Informace najdete na našem <a href="https://www.valatron.cz/">webu</a>, nebo na <a href="https://www.facebook.com/valatroncz">Facebook profilu</a>. 
 
 O interním dění točíme videa a sdílíme know how v našich podcastech.
 
@@ -111,6 +111,6 @@ Máme to štěstí, že IT sektoru i naší firmě se momentálně mimořádně 
 Proto nabízíme naše vývojářské kapacity pro <b>dobročinné účely</b> tam, kde naše pomoc dává smysl.
 
 # 14) Vzdělávání 📚
-<b>Nabízíme vzdělání</b> formou prezentací pro lidi ve firmě a zároveň máme i vlastní interní akademii pro vývojáře juniory. 
+<b>Nabízíme vzdělání</b> formou prezentací pro lidi ve firmě a zároveň máme i vlastní interní Valatron akademii pro vývojáře juniory. 
 
 Vzdělání je pro nás velmi důležité a vždy budeme podporovat jeho maximální rozvoj.
