@@ -90,7 +90,7 @@ Manažer je u nás ve Valatronu člověkem, který iniciuje, propojuje, motivuje
 
 V mnoha firmách jen fráze, u nás realita. 
 
-# 10) Rozumný home office 🏠
+# 10) Home office 🏠
 Nikoho <b>nenutíme sedět každý den v kanceláři</b>, ale přece jenom vnímáme a cítíme, že nejen kvůli práci, ale kvůli samotnému osobnímu kontaktu, jde mnoho věcí vyřešit mnohem snáze. Navíc to v týmu utužuje určitou soudržnost a chuť vídat se společně i mimo práci. 
 
 Proto se nám více osvědčil tzv. hybridní model, kdy většinu týdne se potkáváme v kancelářích a občas si bereme Home office dle osobní potřeby.
